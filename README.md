@@ -16,6 +16,7 @@
 </p>
 
 ##### Manejo de Bases de Datos (MySQL)
+##### Manejo de infraestructura de docker-compose y docker
 ##### Diferentes IDEs como IntelliJ, VSCode, Eclipse
 ##### Conocimiento sobre Testing y TDD
 ##### Manejo de diferentes metodologías como Scrum, Jira
